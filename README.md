@@ -57,4 +57,3 @@ The 20 pages specifically are:
 - [x] Set up repo + secrets discipline
 - [ ] Build `hello_llm.py` (Lab Step 2)
 - [ ] Write ADR v1 (Lab Step 3)
-

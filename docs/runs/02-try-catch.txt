@@ -1,0 +1,25 @@
+In Python, error handling is done using the `try`, `except`, `else`, and `finally` blocks. Here's a brief overview of each:
+
+1. **try**: This block contains code that may raise an exception.
+2. **except**: This block handles the exception if one occurs in the `try` block. You can specify the type of exception to catch.
+3. **else**: This block runs if no exceptions were raised in the `try` block.
+4. **finally**: This block runs regardless of whether an exception occurred or not, typically used for cleanup actions.
+
+### Example:
+
+```python
+try:
+    # Code that may raise an exception
+    result = 10 / 0
+except ZeroDivisionError:
+    # Handle the exception
+    print("Cannot divide by zero.")
+else:
+    # Executes if no exception occurs
+    print("Division successful:", result)
+finally:
+    # Executes no matter what
+    print("Execution completed.")
+```
+
+In this example, the `ZeroDivisionError` is caught, and the message is printed. The `else` block is skipped since an exception occurred, but the `finally` block runs regardless.

@@ -1,0 +1,9 @@
+A virtual environment in Python is an isolated environment that allows you to manage dependencies for different projects separately. It enables you to create a self-contained directory that contains a specific version of Python and its associated packages, without affecting the global Python installation.
+
+**Why it is used:**
+1. **Dependency Management**: Different projects may require different versions of libraries; virtual environments help avoid conflicts.
+2. **Isolation**: Changes in one project do not affect others, ensuring stability.
+3. **Reproducibility**: Easier to replicate the environment for development, testing, and production.
+4. **Cleaner Development**: Keeps your global site-packages directory clean and manageable.
+
+Common tools for creating virtual environments include `venv` (built-in) and `virtualenv`.
