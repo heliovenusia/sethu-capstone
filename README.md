@@ -1,4 +1,4 @@
-# Capstone - Knowledge Assistant
+# Capstone - Python Knowledge Assistant
 
 Developed steadily and incrementally towards partial requirement for completion of the 30-week IITM - Agentic AI Pravartak Coursework
 
@@ -55,5 +55,5 @@ The 20 pages specifically are:
 
 ## Week 1
 - [x] Set up repo + secrets discipline
-- [ ] Build `hello_llm.py` (Lab Step 2)
+- [x] Build `hello_llm.py` (Lab Step 2)
 - [ ] Write ADR v1 (Lab Step 3)
