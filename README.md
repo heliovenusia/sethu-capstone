@@ -56,4 +56,4 @@ The 20 pages specifically are:
 ## Week 1
 - [x] Set up repo + secrets discipline
 - [x] Build `hello_llm.py` (Lab Step 2)
-- [ ] Write ADR v1 (Lab Step 3)
+- [x] Write ADR v1 (Lab Step 3)
