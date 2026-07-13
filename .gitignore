@@ -1,0 +1,10 @@
+.env
+secrets.*
+*.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env.local
+*.key
+.DS_Store
