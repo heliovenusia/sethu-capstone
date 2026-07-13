@@ -23,7 +23,7 @@ Many beginner and intermediate Python learners struggle to find precise answers 
 
 - **Positive:** The corpus is official, public, stable, HTML-based and easy to chunk without OCR.
 - **Positive:** The assistant can help users navigate Python concepts faster while staying grounded in trusted documentation.
-- **Positive:** The framework is simple and explanatory for W1, and also naturally capable of scaling to RAG / Agentic tooling later |
+- **Positive:** The framework is simple and explanatory for W1, and also naturally capable of scaling to RAG / Agentic tooling later
 
 - **Negative / risks:** No memory implies context is lost between question sessions.
 - **Negative / risks:** The assistant may over-answer from general model knowledge unless citations and retrieval boundaries are enforced.
